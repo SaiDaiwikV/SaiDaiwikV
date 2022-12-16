@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Tor
 - 🤔 I’m looking for help with Each-Other
-- 💬 Ask me about Anything
+- 💬 Ask me Computer about Anything
