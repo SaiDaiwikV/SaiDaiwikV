@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 
 <!-- GITHUB STATS  -->
-<img align="left" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anonys6&show_icons=true&theme=transparent" />
+<img align="left" alt="SaiDaiwikV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDaiwikV&show_icons=true&theme=transparent" />
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent -->
 
 <!-- MOST USED LANGUAGE  -->
