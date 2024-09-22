@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap)
+
 <!-- GITHUB STATS  -->
 <img align="left" alt="SaiDaiwikV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDaiwikV&show_icons=true&theme=transparent" />
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent -->
@@ -25,4 +27,4 @@ anonys6/anonys6 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap)
+
