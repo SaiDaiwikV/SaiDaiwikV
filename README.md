@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 anonys6/anonys6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap)
