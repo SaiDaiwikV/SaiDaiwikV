@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help
 - 💬 Ask me about Computer about Operating System like Windows,Linux
 
-![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=anonys6&color=ff69b4) ![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap)
+
 
 <!-- GITHUB STATS  -->
 <img align="left" alt="SaiDaiwikV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDaiwikV&show_icons=true&theme=transparent" />
