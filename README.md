@@ -4,13 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NOTHIING
-- 🌱 I’m currently learning Python,C,C++,JAVA.
-- 👯 I’m looking to collaborate with Everyone (Free to work with everyone)
-- 🤔 I’m looking for help
-- 💬 Ask me about Computer about Operating System like Windows,Linux
+- 🔭 I’m currently leaning about Cyber Security
+- 🌱 I have knowledge in Programming Languages : Python,C,C++,JAVA
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap) <img align="left" alt="SaiDaiwikV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDaiwikV&show_icons=true&theme=transparent" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap) 
 
 
 
