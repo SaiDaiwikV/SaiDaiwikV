@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently leaning about Cyber Security
 - 🌱 I have knowledge in Programming Languages : Python,C,C++,JAVA
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SaiDaiwik?ext=heatmap) 
-
-
 
 <!-- GITHUB STATS  -->
 
