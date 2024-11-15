@@ -1,5 +1,5 @@
 Hi there 👋
-SaiDaiwikV/SaiDaiwikV is a ✨ unique and impactful ✨ repository because its README.md (this file) appears on your GitHub profile and showcases who I am as a developer.
+SaiDaiwikV is a ✨ unique and impactful ✨ repository because its README.md (this file) appears on your GitHub profile and showcases who I am as a developer.
 
 Here are some highlights to get you started:
 
