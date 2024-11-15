@@ -3,11 +3,11 @@ SaiDaiwikV/SaiDaiwikV is a ✨ unique and impactful ✨ repository because its R
 
 Here are some highlights to get you started:
 
-🔭 I’m currently diving deep into Cybersecurity, ensuring systems are secure and resilient.
-🌱 I have expertise in Programming Languages: Python, C, C++, and Java, and I’m always eager to expand my skillset.
-⚡ I’m passionate about DSA with C++, leveraging STL to solve complex problems efficiently.
-🚀 I thrive on creating innovative projects and exploring real-world applications of technology.
-🤝 I’m actively looking to collaborate on open-source projects and contribute to the developer community.
+- 🔭 I’m currently diving deep into Cybersecurity, ensuring systems are secure and resilient.
+- 🌱 I have expertise in Programming Languages: Python, C, C++, and Java, and I’m always eager to expand my skillset.
+-⚡ I’m passionate about DSA with C++, leveraging STL to solve complex problems efficiently.
+- 🚀 I thrive on creating innovative projects and exploring real-world applications of technology.
+- 🤝 I’m actively looking to collaborate on open-source projects and contribute to the developer community.
 Let's connect and build something amazing together!
 
 
