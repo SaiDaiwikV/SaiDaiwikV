@@ -20,10 +20,10 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&
 <img align="right" alt="anonys6's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDaiwikV" /> 
 -->
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
 <!---
 anonys6/anonys6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--->
+
