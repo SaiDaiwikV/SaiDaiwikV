@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌐 Explore More
 
-📂 Portfolio → [vsaidaiwik.uk](https://vsaidaiwik.uk)
+📂 Portfolio → [vsaidaiwik.vercel.app](https://vsaidaiwik.vercel.app)
 
 📫 Reach me at → vsaidaiwik@gmail.com  
 🔗 LinkedIn → [linkedin.com/in/vontimitta-saidaiwik](https://www.linkedin.com/in/vontimitta-saidaiwik)  
